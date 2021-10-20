@@ -1,0 +1,30 @@
+[
+    {
+        "_id": "60795d4e0489a32f948c4167",
+        "name": "The Healthcare Tech Revolution | The Healthcare Technology Report.",
+        "price": "132",
+        "description": "Vehicle Type: Sedan, Doors: 2, Seats: 2, Luggage: 2 Suitcases / 2 Bags, Transmission: Automatic",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0042/3981/8822/articles/hot-topics-in-healthcare_da62e8b5-af06-4ef3-9471-3a08d32085a1.jpg?v=1575501375"
+    },
+    {
+        "_id": "60795e440489a32f948c4168",
+        "name": "Hot Topics in Healthcare | Healthcare Tech Trends - theMSAG",
+        "price": "221",
+        "description": "Vehicle Type: Sedan, Doors: 2, Seats: 2, Luggage: 2 Suitcases / 2 Bags, Transmission: Manual",
+        "imageURL": "https://thehealthcaretechnologyreport.com/wp-content/uploads/2018/12/health-tech-data.jpg"
+    },
+    {
+        "_id": "60795fc20489a32f948c4169",
+        "name": "How Philips is transforming into a health tech trailblazer - The Economic",
+        "price": "105",
+        "description": "Vehicle Type: Pickup Truck, Doors: 5, Seats: 4, Luggage: 6 Suitcases / 8 Bags, Transmission: Manual",
+        "imageURL": "https://img.etimg.com/thumb/width-640,height-480,imgsize-61648,resizemode-1,msid-60894483/industry/healthcare/biotech/healthcare/how-philips-is-transforming-into-a-health-tech-trailblazer/healthcare-tech.jpg"
+    },
+    {
+        "_id": "6079615d0489a32f948c416a",
+        "name": "Top 10 healthcare tech startups to watch - TechRepublic",
+        "price": "434",
+        "description": "Vehicle Type: Crossover, Doors: 5, Seats: 7, Luggage: 5Suitcases / 5Bags, Transmission: Automatic",
+        "imageURL": "https://www.techrepublic.com/a/hub/i/r/2016/10/12/ad2f3ed9-e0d0-4188-b712-8b501866d245/resize/1200x/2bacfe78ca0136de99390d67b69c7c71/health-startup.jpg"
+    }
+]
